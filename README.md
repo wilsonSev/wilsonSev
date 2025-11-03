@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-FullStack Software Developer, Enthusiastic Entrepreneur, Computer Science student
+FullStack Software Developer, Enthusiastic Entrepreneur, Computer Science Student
 - 🌱 I’m currently studying in ITMO University located in Saint Petersburg, Russia
 - 📫 How to reach me: andrepribavkin@gmail.com
 - ⚡ Fun fact: I have 3-year music production experience
